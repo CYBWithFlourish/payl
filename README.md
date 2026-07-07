@@ -1,6 +1,6 @@
 # Payl - Stellar Payment dApp
 
-A PayPal-inspired payment dApp built on Stellar. Send XLM (the native Stellar asset) using the Freighter wallet extension.
+Level 1 (White Belt) of Stellar Journey to Mastery. A PayPal-inspired payment dApp built on Stellar. Send XLM (the native Stellar asset) using the Freighter wallet extension.
 
 ## Features
 
